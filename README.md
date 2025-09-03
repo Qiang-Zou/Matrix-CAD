@@ -3,7 +3,7 @@
 - By: Jiayu Wu and Qiang Zou
 -  email: qzou.code@gmail.com
 - webpage: https://qiang-zou.github.io/
-- Latest Release: Sep 3, 2025
+- Latest Release: 2025.09
 
 <img align="left" src="M-rep_pipeline.png"> 
 <br />
@@ -83,4 +83,5 @@ M-rep is GNU licensed. It is developed by Jiayu Wu, supervised under Qiang Zou, 
 5.References
 -------------
 [1] Jiayu Wu, Zhengwen Feng, Qiang Zou, Matrix representation and GPU-optimized parallel B-spline computing, Computer-Aided Design, Volume 189, 2025, 103948.
+
 
