@@ -1,0 +1,14 @@
+pid, used_gpu_memory [MiB]
+1428534, 378 MiB
+pid, used_gpu_memory [MiB]
+1549615, 378 MiB
+pid, used_gpu_memory [MiB]
+1556330, 378 MiB
+pid, used_gpu_memory [MiB]
+1556841, 378 MiB
+pid, used_gpu_memory [MiB]
+1563955, 378 MiB
+pid, used_gpu_memory [MiB]
+1568747, 378 MiB
+pid, used_gpu_memory [MiB]
+1590310, 378 MiB
